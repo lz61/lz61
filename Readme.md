@@ -35,8 +35,6 @@ I have already obtained a **Bachelor**'s degree in **Software Engineering** from
 
   - **Real-time Collaboration**: Work on documents simultaneously with colleagues or clients in real time, seeing each other's edits as they happen.
 
-  With Yubing, sharing documents is as simple as a few clicks, making it ideal for teams and individuals who need a reliable and user-friendly document sharing solution.
-
 ### ✨ Hobbies
 
 - 𝑓 Algorithms and mathematics enthusiast
